@@ -1,0 +1,29 @@
+
+* {
+    line-height: 1.5;
+}
+
+body {
+    font-family: Verdana, Tahoma, Arial, sans-serif;
+    background-color: cornflowerblue;
+    text-align: center;
+
+}
+
+h1 {
+    color: #ffff00;
+}
+
+ul,
+ol {
+    padding-inline-start: 0px;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: lemonchiffon;
+}
