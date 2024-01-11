@@ -4,13 +4,14 @@
 }
 
 body {
-    font-family: "GT Extended Bold", "Helvetica Neue", Tahoma, Arial, sans-serif;
+    font-family: "DejaVu Sans", "Helvetica Neue", Tahoma, Arial, sans-serif;
     background-color: #d21e1e;
 
 }
 
 h1 {
     color: #000000;
+    font-size: 42px;
 }
 
 .card {
